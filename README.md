@@ -12,18 +12,18 @@
 
   ## Installation
   To install and run this code, you need to have Node.js and NPM installed on your computer. Here is a general guide to install Node.js and NPM on Windows, MacOS, and Linux:
-  
-    ## Windows 
+
+     Windows 
        1. Go to the official Node.js website at https://nodejs.org/en/download/ and download the installer for your operating system.
        2. Run the installer and follow the prompts to install Node.js and NPM.
        3. Verify the installation by opening a terminal or command prompt and typing 'node -v' and 'npm -v'. These commands should print the version numbers of Node.js and NPM, respectively.
 
-    ## MacOS 
+     MacOS 
        1. Go to the official Node.js website at https://nodejs.org/en/download/ and download the installer for your operating system.
        2. Run the installer and follow the prompts to install Node.js and NPM.
        3. Verify the installation by opening a terminal and typing 'node -v' and 'npm -v'.
 
-    ## Linux
+     Linux
        1. Open your terminal or press Ctrl + Alt + T.
        2. To install Node.js, use the following command: sudo apt install nodejs.
        3. To install NPM, use the following command: sudo apt install npm.
