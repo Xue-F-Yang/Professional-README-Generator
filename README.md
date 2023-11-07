@@ -16,12 +16,10 @@
        1. Go to the official Node.js website at https://nodejs.org/en/download/ and download the installer for your operating system.
        2. Run the installer and follow the prompts to install Node.js and NPM.
        3. Verify the installation by opening a terminal or command prompt and typing 'node -v' and 'npm -v'. These commands should print the version numbers of Node.js and NPM, respectively.
-    
     ## MacOS 
        1. Go to the official Node.js website at https://nodejs.org/en/download/ and download the installer for your operating system.
        2. Run the installer and follow the prompts to install Node.js and NPM.
        3. Verify the installation by opening a terminal and typing 'node -v' and 'npm -v'.
-    
     ## Linux
        1. Open your terminal or press Ctrl + Alt + T.
        2. To install Node.js, use the following command: sudo apt install nodejs.
